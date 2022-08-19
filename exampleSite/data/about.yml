@@ -25,9 +25,9 @@ team:
   - title: Pascal Schmid
     image: images/team/member-2.png
     designation: Founder
-  - title: John Doe
+  - title: Kyoung June (KJ) Eee
     image: images/team/member-3.png
-    designation: Designer
+    designation: Founder
 clients_logo_slider:
   enable: true
   title: My Clients
