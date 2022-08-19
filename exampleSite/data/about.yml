@@ -1,6 +1,6 @@
 ---
 work_process:
-  enable: true
+  enable: false
   title: Work Process
   item:
   - title: Find Something Big
@@ -29,5 +29,5 @@ team:
     image: images/team/member-3.png
     designation: Founder
 clients_logo_slider:
-  enable: true
+  enable: false
   title: My Clients
