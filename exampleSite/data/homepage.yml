@@ -1,8 +1,9 @@
 ---
 banner:
-  title: Hi! I’m <br> Christoher <br> UX designer
+  title: "<br> ICON Foundation <br> We support open development for decentralized
+    technologies"
 about:
-  enable: true
+  enable: false
   content: We support open development for decentralized technologies
   button:
     enable: true
