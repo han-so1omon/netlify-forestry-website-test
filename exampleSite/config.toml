@@ -2,7 +2,7 @@
 baseURL = "https://demo.gethugothemes.com/kross/examplesite/"
 languageCode = "en-us"
 summaryLength = "10"
-theme = "kross-hugo"
+theme = "github.com/themefisher/kross-hugo"
 title = "Kross"
 
 # css plugins
