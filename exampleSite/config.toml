@@ -4,21 +4,24 @@ summaryLength = "10"
 theme = "github.com/themefisher/kross-hugo"
 title = "Kross"
 [[menu.main]]
-URL = "about/"
-name = "About"
-weight = 1
-[[menu.main]]
-URL = "blog/"
-name = "Blog"
+name = "Projects"
 weight = 2
-[[menu.main]]
-URL = "portfolio/"
-name = "Portfolio"
-weight = 3
 [[menu.main]]
 URL = "contact/"
 name = "Contact"
+weight = 5
+[[menu.main]]
+URL = "portfolio/"
+name = "Portfolio"
 weight = 4
+[[menu.main]]
+URL = "blog/"
+name = "Blog"
+weight = 3
+[[menu.main]]
+URL = "about/"
+name = "About"
+weight = 1
 [params]
 address = "125/A, CA Commercial Area, California, USA"
 author = "Johnathan Smith"
